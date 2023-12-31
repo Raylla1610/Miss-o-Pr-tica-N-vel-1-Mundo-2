@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #f0f0f0;
+    font-family: 'Courier New', sans-serif;
+}
+
+.header{
+    background-color: #f95c18;
+    height: 65px;
+    text-align: center;
+    padding-top: 15px;
+
+}
+.img{
+    height: 65px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.banner{
+    background-position: center;
+    height: 300px;
+    min-height: 100%;
+    background-image: url(img/marguerita.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 30px;
+    padding-top: 60px;
+    
+
+}
+
+.footer{
+    background-color: #ff6a28;
+    height: 50px;
+    color: #f0f0f0;
+    text-align: center;
+    padding-top: 30px;
+
+
+}
+
+.card{
+    background-color: #ffff;
+    width:500px
+    padding:15px;
+    margin:50px auto;
+    border-radius:40px;
+    font-weight:300;
+
+}
+
+h1{
+    color: #ff6a28;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 40px;
+    margin: 40px;
+
+}
+
+.titulo-receita{
+    color: #ff6a28;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 40px;
+    margin: 40px;
+
+}
+
+li{
+    list-style-position: inside;
+    line-height: 35px;
+
+
+}
+
+ul{
+    margin-bottom: 40px;
+    padding: 15px;
+    margin: 15px;
+
+}
+
+ol{
+    padding: 15px;
+    margin: 15px;
+}
+
+a{
+    text-decoration: none;
+    background-color: #ff6a28;
+    color: #f0f0f0;
+    padding: 15px;
+    margin: 30px;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 15px;
+    border-radius: 30px;
+
+    
+}
+
+a:hover{
+    background-color: #f95c18;
+
+}
+
+.titulo-receita{
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 30px;
+
+}
